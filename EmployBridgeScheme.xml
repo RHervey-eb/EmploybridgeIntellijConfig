@@ -14,4 +14,8 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+  </codeStyleSettings>
 </code_scheme>
